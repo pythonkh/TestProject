@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
+
 public class GUI extends JFrame {
 
     JTextField num1Tf = new JTextField(10);
